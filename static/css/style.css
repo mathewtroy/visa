@@ -54,6 +54,10 @@ main {
     object-fit: contain; 
 }
 
+#icon-0 img {
+    content: url('../images/Date.svg');
+}
+
 #icon-1 img {
     content: url('../images/Anketa.svg');
 }
